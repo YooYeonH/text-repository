@@ -1,7 +1,3 @@
-
-
-
-
 public class Calculator{
 
     public static int sum(int a,int b){
@@ -10,7 +6,7 @@ public class Calculator{
     
     }
 
-    public static int sub(int a,int b){
+    public static int minus(int a,int b){
 
             return a-b;
     
